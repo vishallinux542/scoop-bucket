@@ -29,4 +29,3 @@ Release assets are published on the
 [createyournotes releases page](https://github.com/Vishalkirthik-TV/createyournotes/releases).
 Each release version corresponds to the `version` field in
 [`bucket/createyournotes.json`](bucket/createyournotes.json).
-````
