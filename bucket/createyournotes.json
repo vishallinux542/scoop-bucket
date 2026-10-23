@@ -2,6 +2,7 @@
     "version": "1.0.0",
     "description": "CreateYourNotes - a local-first notes app for Windows 10 and later. Your notes stay on your PC: no account, no sync, no tracking.",
     "homepage": "https://github.com/Vishalkirthik-TV/createyournotes",
+    "license": "MIT",
     "notes": [
         "Notes and settings are stored in scoop\\persist\\createyournotes\\holdmynotes.db and are preserved across updates and uninstalls.",
         "Launch from the Start menu as 'CreateYourNotes', or from a terminal with 'holdmynotes'."
